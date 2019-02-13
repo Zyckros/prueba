@@ -1,0 +1,11 @@
+.opcActivada{
+  background-color: green;
+}
+
+.opcDesactivada{
+background-color: red;
+}
+
+.opcPorDefecto{
+  background-color: white;
+}
